@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Junior Creative Developer focusing on the holistic user experience.
+I make cool shit.
 <br>
 [Website](https://gekolev.com/)
 <!--
