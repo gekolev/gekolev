@@ -1,5 +1,5 @@
 ### Hi there 👋
-I make cool shit.
+I try to make cool shit.
 <!--
 **gekolev/gekolev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
